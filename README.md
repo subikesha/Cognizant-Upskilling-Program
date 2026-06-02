@@ -27,3 +27,31 @@ The Local Community Event Portal is a web-based application that allows users to
 ## Developed For
 
 Cognizant Upskilling Program – Web Development Activity.
+
+
+# Styling the Local Community Event Portal
+
+This project focuses on enhancing the Local Community Event Portal using CSS.
+
+## Features
+
+* External CSS using `styles.css`
+* CSS Selectors (Universal, Element, ID, Class, Grouping)
+* Custom Colors and Backgrounds
+* Google Fonts and Typography
+* Link and Navigation Styling
+* Table Styling with Zebra Striping
+* Box Model (Margin, Padding, Border, Outline)
+* Multi-Column Layout
+* Responsive Design using Media Queries
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* Google Fonts
+
+## Purpose
+
+To learn and implement modern CSS techniques for creating attractive, responsive, and user-friendly web pages.
+
