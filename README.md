@@ -55,3 +55,30 @@ This project focuses on enhancing the Local Community Event Portal using CSS.
 
 To learn and implement modern CSS techniques for creating attractive, responsive, and user-friendly web pages.
 
+# JavaScript – Local Community Event Portal
+
+This project implements JavaScript features for the Local Community Event Portal.
+
+## Features
+
+* External JavaScript using `main.js`
+* Event Registration and Validation
+* Dynamic Event Display using DOM Manipulation
+* Event Handling (Click, Change, Double Click, Key Events)
+* Arrays, Objects, Functions, and Closures
+* Local Storage and Session Storage
+* Geolocation API
+* Fetch API and Async/Await
+* Form Validation
+* jQuery Animations
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* jQuery
+
+## Purpose
+
+To learn and implement modern JavaScript concepts for creating interactive and dynamic web applications.
